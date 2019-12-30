@@ -1,0 +1,57 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Pallisade</name>
+    <description>Palisade is 5x9-minute intervals alternating slightly above or slightly below FTP. Each interval is a combination of 1-minute efforts at 95% FTP followed immediately by 2-minute efforts at 105% FTP. 6 minutes of recovery fall between intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+      <tag name="threshold"/>
+    </tags>
+    <workout>
+      <!-- Warmup -->
+      <SteadyState Duration="180" Power="0.50"/>
+      <SteadyState Duration="240" Power="0.65"/>
+      <SteadyState Duration="180" Power="0.95"/>
+      <SteadyState Duration="300" Power="0.40"/>
+      <!-- Interval 1 -->
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="360" Power="0.40"/>
+      <!-- Interval 2 -->
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="360" Power="0.40"/>
+      <!-- Interval 3 -->
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="360" Power="0.40"/>
+      <!-- Interval 4 -->
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="360" Power="0.40"/>
+      <!-- Interval 5 -->
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <SteadyState Duration="60" Power="0.95"/>
+      <SteadyState Duration="120" Power="1.05"/>
+      <!-- Cooldown -->
+      <Cooldown Duration="360" PowerLow="0.30" PowerHigh="0.40"/>
+    </workout>
+</workout_file>

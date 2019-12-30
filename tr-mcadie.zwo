@@ -1,0 +1,57 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>McAdie</name>
+    <description>McAdie is 4x12-minute over-under intervals alternating between 2 minutes at 95% FTP and 1 minute at 105% FTP.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="threshold"/>
+    </tags>
+    <workout>
+      <!-- Warmup -->
+      <SteadyState Duration="210" Power="0.50"/>
+      <SteadyState Duration="210" Power="0.65"/>
+      <SteadyState Duration="180" Power="0.80"/>
+      <SteadyState Duration="180" Power="0.95"/>
+      <SteadyState Duration="300" Power="0.40"/>
+      <!-- Interval 1 -->
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="360" Power="0.40"/>
+      <!-- Interval 2 -->
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="360" Power="0.40"/>
+      <!-- Interval 3 -->
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="360" Power="0.40"/>
+      <!-- Interval 4 -->
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <SteadyState Duration="120" Power="0.95"/>
+      <SteadyState Duration="60" Power="1.05"/>
+      <Cooldown Duration="360" PowerLow="0.30" PowerHigh="0.40"/>
+    </workout>
+</workout_file>

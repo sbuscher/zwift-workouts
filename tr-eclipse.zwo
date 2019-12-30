@@ -1,0 +1,47 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Eclipse</name>
+    <description>Eclipse is comprised of 3x20 minute Sweet Spot efforts (88-94% FTP) with 7 minutes of recovery between intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+      <tag name="sweetspot"/>
+    </tags>
+    <workout>
+      <!-- Warmup -->
+      <SteadyState Duration="180" Power="0.50"/>
+      <SteadyState Duration="180" Power="0.70"/>
+      <SteadyState Duration="120" Power="0.90"/>
+      <SteadyState Duration="300" Power="0.40"/>
+      <!-- Interval 1 -->
+      <Warmup Duration="120" PowerLow="0.88" PowerHigh="0.91"/>
+      <Cooldown Duration="180" PowerLow="0.88" PowerHigh="0.91"/>
+      <Warmup Duration="240" PowerLow="0.88" PowerHigh="0.94"/>
+      <Cooldown Duration="180" PowerLow="0.89" PowerHigh="0.94"/>
+      <Warmup Duration="240" PowerLow="0.89" PowerHigh="0.93"/>
+      <Cooldown Duration="240" PowerLow="0.88" PowerHigh="0.93"/>
+      <SteadyState Duration="420" Power="0.40"/>
+      <!-- Interval 2 -->
+      <Warmup Duration="120" PowerLow="0.88" PowerHigh="0.90"/>
+      <Cooldown Duration="60" PowerLow="0.89" PowerHigh="0.90"/>
+      <Warmup Duration="300" PowerLow="0.89" PowerHigh="0.92"/>
+      <Cooldown Duration="60" PowerLow="0.90" PowerHigh="0.92"/>
+      <Warmup Duration="120" PowerLow="0.90" PowerHigh="0.92"/>
+      <Cooldown Duration="120" PowerLow="0.90" PowerHigh="0.92"/>
+      <Warmup Duration="180" PowerLow="0.90" PowerHigh="0.93"/>
+      <Cooldown Duration="60" PowerLow="0.90" PowerHigh="0.93"/>
+      <Warmup Duration="60" PowerLow="0.90" PowerHigh="0.91"/>
+      <Cooldown Duration="120" PowerLow="0.89" PowerHigh="0.91"/>
+      <SteadyState Duration="420" Power="0.40"/>
+      <!-- Interval 3 -->
+      <Warmup Duration="60" PowerLow="0.88" PowerHigh="0.91"/>
+      <Cooldown Duration="180" PowerLow="0.88" PowerHigh="0.91"/>
+      <Warmup Duration="180" PowerLow="0.88" PowerHigh="0.93"/>
+      <Cooldown Duration="180" PowerLow="0.90" PowerHigh="0.93"/>
+      <Warmup Duration="180" PowerLow="0.90" PowerHigh="0.93"/>
+      <Cooldown Duration="120" PowerLow="0.92" PowerHigh="0.93"/>
+      <Warmup Duration="120" PowerLow="0.92" PowerHigh="0.93"/>
+      <Cooldown Duration="180" PowerLow="0.90" PowerHigh="0.93"/>
+      <!-- Cooldown -->
+      <Cooldown Duration="180" PowerLow="0.30" PowerHigh="0.40"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,42 @@
+<workout_file>
+  <author>zwiffer</author>
+  <name>Tunemah</name>
+  <description>Tunemah is 3x12-minute over-under intervals alternating between 2 minutes at 95% FTP and 2 minutes at 105% FTP with 10-minute recoveries between intervals.</description>
+  <sportType>bike</sportType>
+  <tags>
+    <tag name="threshold"/>
+  </tags>
+  <workout>
+    <!-- Warmup -->
+    <SteadyState Duration="120" Power="0.50"/>
+    <SteadyState Duration="120" Power="0.60"/>
+    <SteadyState Duration="120" Power="0.70"/>
+    <SteadyState Duration="180" Power="0.90"/>
+    <SteadyState Duration="900" Power="0.60"/>
+    <!-- Interval set 1 -->
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <SteadyState Duration="600" Power="0.50"/>
+    <!-- Interval set 2 -->
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <SteadyState Duration="600" Power="0.50"/>
+    <!-- Interval set 3 -->
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <SteadyState Duration="120" Power="0.95"/>
+    <SteadyState Duration="120" Power="1.05"/>
+    <!-- Cooldown -->
+    <Cooldown Duration="600" PowerLow="0.50" PowerHigh="0.40"/>
+  </workout>
+</workout_file>

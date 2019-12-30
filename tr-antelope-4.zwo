@@ -1,0 +1,30 @@
+<workout_file>
+  <author>zwiffer</author>
+  <name>Antelop -4</name>
+  <description>Antelope -4 is 4x10-minute Sweet Spot intervals ranging between 88-94% FTP with 6-minute recoveries between intervals.</description>
+  <sportType>bike</sportType>
+  <tags>
+    <tag name="sweetspot"/>
+  </tags>
+  <workout>
+    <!-- Warmup -->
+    <SteadyState Duration="180" Power="0.50"/>
+    <SteadyState Duration="120" Power="0.60"/>
+    <SteadyState Duration="120" Power="0.70"/>
+    <SteadyState Duration="180" Power="0.90"/>
+    <SteadyState Duration="300" Power="0.40"/>
+    <!-- Interval set 1 -->
+    <SteadyState Duration="600" Power="0.88"/>
+    <SteadyState Duration="360" Power="0.40"/>
+    <!-- Interval set 2 -->
+    <SteadyState Duration="600" Power="0.90"/>
+    <SteadyState Duration="360" Power="0.40"/>
+    <!-- Interval set 3 -->
+    <SteadyState Duration="600" Power="0.94"/>
+    <SteadyState Duration="360" Power="0.40"/>
+    <!-- Interval set 4 -->
+    <SteadyState Duration="600" Power="0.92"/>
+    <!-- Cooldown -->
+    <Cooldown Duration="120" PowerLow="0.30" PowerHigh="0.40"/>
+  </workout>
+</workout_file>

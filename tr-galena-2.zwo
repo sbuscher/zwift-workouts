@@ -1,6 +1,6 @@
 <workout_file>
     <author>zwiffer</author>
-    <name>Galena</name>
+    <name>Galena -2</name>
     <description>Galena -2 is 2x20-minute Sweet Spot efforts between 90-94% FTP with 5 minutes of recovery between intervals.</description>
     <sportType>bike</sportType>
     <tags>
@@ -8,9 +8,9 @@
     </tags>
     <workout>
       <!-- Warmup -->
-      <SteadyState Duration="210" Power="0.50"/>
-      <SteadyState Duration="210" Power="0.70"/>
-      <SteadyState Duration="180" Power="0.90"/>
+      <SteadyState Duration="150" Power="0.50"/>
+      <SteadyState Duration="150" Power="0.70"/>
+      <SteadyState Duration="120" Power="0.90"/>
       <!-- Intervals -->
       <SteadyState Duration="300" Power="0.40"/>
       <SteadyState Duration="1200" Power="0.90"/>

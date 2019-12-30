@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>tr-galena-2.zwo</name>
+        <time>0</time>
+        <guid>31837</guid>
+        <checksum>95</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>tr-galena.zwo</name>
         <time>0</time>
         <guid>11144</guid>

@@ -1,0 +1,23 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Hunter</name>
+    <description>Hunter consists of 3x20-minute intervals at 88-92% FTP with 15-minute recoveries between intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweetspot"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="180" Power="0.5"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="180" Power="0.7"/>
+        <SteadyState Duration="180" Power="0.8"/>
+        <SteadyState Duration="180" Power="0.9"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="1200" Power="0.88"/>
+        <SteadyState Duration="900" Power="0.4"/>
+        <SteadyState Duration="1200" Power="0.92"/>
+        <SteadyState Duration="900" Power="0.4"/>
+        <SteadyState Duration="1200" Power="0.89"/>
+        <Cooldown Duration="600" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

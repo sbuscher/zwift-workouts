@@ -1,0 +1,20 @@
+<workout_file>
+  <author>zwiffer</author>
+  <name>Carter</name>
+  <description>Carter is 45 minutes of aerobic Endurance riding where you&apos;ll spend 30 continuous minutes between 65-75% FTP.</description>
+  <sportType>bike</sportType>
+  <tags>
+    <tag name="endurance"/>
+  </tags>
+  <workout>
+    <SteadyState Duration="240" Power="0.5"/>
+    <SteadyState Duration="180" Power="0.6"/>
+    <SteadyState Duration="240" Power="0.65"/>
+    <SteadyState Duration="600" Power="0.7"/>
+    <Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65"/>
+    <SteadyState Duration="540" Power="0.65"/>
+    <Ramp Duration="60" PowerLow="0.65" PowerHigh="0.75"/>
+    <SteadyState Duration="540" Power="0.75"/>
+    <Cooldown Duration="300" PowerLow="0.75" PowerHigh="0.5"/>
+  </workout>
+</workout_file>

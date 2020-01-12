@@ -1,0 +1,27 @@
+<workout_file>
+	<author></author>
+	<name>Mount Field - ergdb</name>
+	<description>Description
+Mount Field is 3&#215;12-minute intervals at 85% FTP with 3-minute recoveries between intervals.
+Goals
+The primary aim of Sweet Spot work is to improve your ability to resist fatigue at reasonably high power outputs over substantial lengths of time.
+In other words, workouts like this are all about increasing your muscular endurance.
+In doing so, you can improve your ability to climb faster and longer, face stiff winds without fading and time trial more consistently over the entire course of the event.
+Additionally, you have the option of targeting specific aspects of climbing form, time trialing, speed endurance, and aerodynamic positioning.
+Cadence recommendations vary depending on the current drill, but riders choosing to omit the drills should aim for a spin between 85-95rpm.
+</description>
+	<sportType>bike</sportType>
+	<tags>tempo</tags>
+	<workout>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="240" Power="0.72"/>
+		<SteadyState Duration="180" Power="0.96"/>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="720" Power="0.85"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="720" Power="0.85"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="720" Power="0.85"/>
+		<CoolDown Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

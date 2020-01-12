@@ -1,0 +1,21 @@
+<workout_file>
+  <author>zwiffer</author>
+  <name>Pettit</name>
+  <description>Pettit is an hour of aerobic Endurance work spent between 60-70% FTP.</description>
+  <sportType>bike</sportType>
+  <tags>
+    <tag name="endurance"/>
+  </tags>
+  <workout>
+    <SteadyState Duration="180" Power="0.5"/>
+    <SteadyState Duration="120" Power="0.55"/>
+    <SteadyState Duration="720" Power="0.6"/>
+    <Ramp Duration="60" PowerLow="0.6" PowerHigh="0.65"/>
+    <SteadyState Duration="720" Power="0.65"/>
+    <Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7"/>
+    <SteadyState Duration="720" Power="0.7"/>
+    <Ramp Duration="60" PowerLow="0.7" PowerHigh="0.6"/>
+    <SteadyState Duration="720" Power="0.6"/>
+    <Cooldown Duration="240" PowerLow="0.6" PowerHigh="0.4"/>
+  </workout>
+</workout_file>

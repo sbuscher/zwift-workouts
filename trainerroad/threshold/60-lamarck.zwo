@@ -1,0 +1,18 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Lamarck</name>
+    <description>Lamarck is 4x10-minute intervals set right at FTP and the active recoveries between intervals are each 2 minutes long.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="threshold"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="180" Power="0.5"/>
+        <SteadyState Duration="120" Power="0.65"/>
+        <SteadyState Duration="180" Power="0.95"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <IntervalsT Repeat="3" OnDuration="600" OffDuration="120" OnPower="1" OffPower="0.4"/>
+        <SteadyState Duration="600" Power="1"/>
+        <Cooldown Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

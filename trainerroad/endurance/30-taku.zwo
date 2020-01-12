@@ -1,0 +1,19 @@
+<workout_file>
+  <author>zwiffer</author>
+  <name>Taku</name>
+  <description>Taku is a short, aerobic Endurance workout consisting of 30 minutes spent between 60-70% FTP.</description>
+  <sportType>bike</sportType>
+  <tags>
+    <tag name="endurance"/>
+  </tags>
+  <workout>
+    <SteadyState Duration="180" Power="0.5"/>
+    <SteadyState Duration="120" Power="0.6"/>
+    <SteadyState Duration="300" Power="0.65"/>
+    <Ramp Duration="120" PowerLow="0.65" PowerHigh="0.7"/>
+    <SteadyState Duration="300" Power="0.7"/>
+    <Ramp Duration="120" PowerLow="0.7" PowerHigh="0.6"/>
+    <SteadyState Duration="360" Power="0.6"/>
+    <Cooldown Duration="300" PowerLow="0.6" PowerHigh="0.4"/>
+  </workout>
+</workout_file>

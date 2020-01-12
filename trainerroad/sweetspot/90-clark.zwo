@@ -1,0 +1,41 @@
+<workout_file>
+    <author></author>
+    <name>Clark</name>
+    <description>6 x 9&apos; @ 88-94% w/ 2&apos; @ 60% rest, reps begin with 15&quot; @ 200% big gear, high-force stomps</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="120" Power="0.7"/>
+        <SteadyState Duration="120" Power="0.8"/>
+        <SteadyState Duration="180" Power="0.9"/>
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="15" Power="1.3"/>
+        <SteadyState Duration="45" Power="0.5"/>
+        <SteadyState Duration="15" Power="1.5"/>
+        <SteadyState Duration="45" Power="0.5"/>
+        <SteadyState Duration="15" Power="1.8"/>
+        <SteadyState Duration="45" Power="0.5"/>
+        <SteadyState Duration="15" Power="2"/>
+        <SteadyState Duration="165" Power="0.5"/>
+        <SteadyState Duration="12" Power="2"/>
+        <SteadyState Duration="468" Power="0.9"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="12" Power="2"/>
+        <SteadyState Duration="468" Power="0.92"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="12" Power="2"/>
+        <SteadyState Duration="468" Power="0.94"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="12" Power="2"/>
+        <SteadyState Duration="468" Power="0.92"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="12" Power="2"/>
+        <SteadyState Duration="468" Power="0.9"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="12" Power="2"/>
+        <SteadyState Duration="468" Power="0.88"/>
+        <Cooldown Duration="540" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,43 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Reinstein</name>
+    <description>Reinstein is 3x12-minute over-under intervals alternating between 2 minutes at 95% FTP and 1 minute at 105% FTP with 10-minute active recoveries between intervals.i</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="threshold"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.50449997" pace="8268"/>
+        <SteadyState Duration="120" Power="0.6045" pace="8268"/>
+        <SteadyState Duration="120" Power="0.70449996" pace="8268"/>
+        <SteadyState Duration="180" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="660" Power="0.61449999" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="600" Power="0.50449997" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.057548" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="600" Power="0.50449997" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="8268"/>
+        <SteadyState Duration="60" Power="1.0545" pace="8268"/>
+        <Cooldown Duration="840" PowerLow="0.6045" PowerHigh="0.40450001" pace="8268"/>
+    </workout>
+</workout_file>

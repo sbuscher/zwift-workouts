@@ -1,0 +1,36 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Ebbetts</name>
+    <description>Ebbetts is 4x8-minute intervals between 88-94% FTP with 5-second high-power tags between 150-180% FTP.  4-minute recoveries separate the intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweetspot"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="150" Power="0.5"/>
+        <SteadyState Duration="60" Power="0.65"/>
+        <SteadyState Duration="30" Power="0.5"/>
+        <SteadyState Duration="60" Power="0.75"/>
+        <SteadyState Duration="30" Power="0.5"/>
+        <SteadyState Duration="60" Power="0.85"/>
+        <SteadyState Duration="30" Power="0.5"/>
+        <SteadyState Duration="60" Power="0.95"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <SteadyState Duration="60" Power="0.92"/>
+        <IntervalsT Repeat="3" OnDuration="5" OffDuration="115" OnPower="1.6" OffPower="0.92"/>
+        <IntervalsT Repeat="1" OnDuration="5" OffDuration="55" OnPower="1.6" OffPower="0.92"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <SteadyState Duration="60" Power="0.9"/>
+        <IntervalsT Repeat="3" OnDuration="5" OffDuration="115" OnPower="1.7" OffPower="0.9"/>
+        <IntervalsT Repeat="1" OnDuration="5" OffDuration="55" OnPower="1.7" OffPower="0.9"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <SteadyState Duration="60" Power="0.94"/>
+        <IntervalsT Repeat="3" OnDuration="5" OffDuration="115" OnPower="1.5" OffPower="0.94"/>
+        <IntervalsT Repeat="1" OnDuration="5" OffDuration="55" OnPower="1.5" OffPower="0.94"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <SteadyState Duration="60" Power="0.88"/>
+        <IntervalsT Repeat="3" OnDuration="5" OffDuration="115" OnPower="1.8" OffPower="0.88"/>
+        <IntervalsT Repeat="1" OnDuration="5" OffDuration="55" OnPower="1.8" OffPower="0.88"/>
+        <Cooldown Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

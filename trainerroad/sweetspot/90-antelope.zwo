@@ -1,0 +1,26 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Antelope</name>
+    <description>Antelope is 5x10-minute Sweet Spot intervals ranging between 88-94% FTP with 5-minute recoveries between intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweetspot"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="180" Power="0.5" pace="8268"/>
+        <SteadyState Duration="120" Power="0.60000002" pace="8268"/>
+        <SteadyState Duration="120" Power="0.69999999" pace="8268"/>
+        <SteadyState Duration="180" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="300" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="600" Power="0.88" pace="8268"/>
+        <SteadyState Duration="300" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="600" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="300" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="600" Power="0.93000001" pace="8268"/>
+        <SteadyState Duration="300" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="600" Power="0.93000001" pace="8268"/>
+        <SteadyState Duration="300" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="600" Power="0.89999998" pace="8268"/>
+        <Cooldown Duration="300" PowerLow="0.40450001" PowerHigh="0.30450001" pace="8268"/>
+    </workout>
+</workout_file>

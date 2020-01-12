@@ -1,0 +1,56 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Tunnabora</name>
+    <description>Tunnabora is 5x7-minute sets of decreasing then increasing watts between 88-94% FTP in 1-minute steps to allow cadence changes over the course of each form interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweetspot"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.5" pace="8268"/>
+        <SteadyState Duration="120" Power="0.64999998" pace="8268"/>
+        <SteadyState Duration="120" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="120" Power="0.5" pace="8268"/>
+        <SteadyState Duration="120" Power="0.60000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.88" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="180" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.88" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="180" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.88" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="180" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.88" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="180" Power="0.40000001" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.88" pace="8268"/>
+        <SteadyState Duration="60" Power="0.89999998" pace="8268"/>
+        <SteadyState Duration="60" Power="0.92000002" pace="8268"/>
+        <SteadyState Duration="60" Power="0.94" pace="8268"/>
+        <Cooldown Duration="180" PowerLow="0.40450001" PowerHigh="0.30450001" pace="8268"/>
+    </workout>
+</workout_file>

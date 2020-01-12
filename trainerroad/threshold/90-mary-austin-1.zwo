@@ -1,0 +1,53 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Mary Austin -1</name>
+    <description>Mary Austin -1 is 3 sets of 2x10-minute intervals consisting of 2-minute steps up from 92%-102% FTP and then back down again.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="threshold"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="240" Power="0.5"/>
+        <SteadyState Duration="180" Power="0.7"/>
+        <SteadyState Duration="60" Power="0.92"/>
+        <SteadyState Duration="60" Power="0.98"/>
+        <SteadyState Duration="60" Power="1.02"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="1.02"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="1.02"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="1.02"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="1.02"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="1.02"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="1.02"/>
+        <SteadyState Duration="120" Power="0.98"/>
+        <SteadyState Duration="120" Power="0.92"/>
+        <Cooldown Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

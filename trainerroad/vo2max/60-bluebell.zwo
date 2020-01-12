@@ -1,0 +1,55 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Bluebell</name>
+	<description></description>
+	<sportType>bike</sportType>
+	<tags>vo2max</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="20" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.2"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.2"/>
+		<CoolDown Duration="160" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

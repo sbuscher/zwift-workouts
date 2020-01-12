@@ -1,0 +1,44 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Geiger +2</name>
+    <description>Geiger +1 is 4x12-minute efforts spent in the Sweet Spot, 88-94% FTP, with 4-minute recoveries between efforts.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweetspot"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="120" Power="0.65"/>
+        <SteadyState Duration="60" Power="0.8"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="60" Power="0.85"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="60" Power="0.9"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <Ramp Duration="60" PowerLow="0.88" PowerHigh="0.91"/>
+        <Ramp Duration="180" PowerLow="0.91" PowerHigh="0.88"/>
+        <Ramp Duration="180" PowerLow="0.88" PowerHigh="0.94"/>
+        <Ramp Duration="300" PowerLow="0.94" PowerHigh="0.91"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <Ramp Duration="120" PowerLow="0.9" PowerHigh="0.92"/>
+        <Ramp Duration="120" PowerLow="0.92" PowerHigh="0.9"/>
+        <Ramp Duration="120" PowerLow="0.9" PowerHigh="0.92"/>
+        <Ramp Duration="120" PowerLow="0.92" PowerHigh="0.9"/>
+        <Ramp Duration="120" PowerLow="0.9" PowerHigh="0.92"/>
+        <Ramp Duration="120" PowerLow="0.92" PowerHigh="0.9"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <Ramp Duration="240" PowerLow="0.9" PowerHigh="0.92"/>
+        <Ramp Duration="240" PowerLow="0.92" PowerHigh="0.88"/>
+        <Ramp Duration="240" PowerLow="0.88" PowerHigh="0.9"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <Ramp Duration="180" PowerLow="0.91" PowerHigh="0.94"/>
+        <Ramp Duration="180" PowerLow="0.94" PowerHigh="0.88"/>
+        <Ramp Duration="180" PowerLow="0.88" PowerHigh="0.91"/>
+        <Ramp Duration="180" PowerLow="0.91" PowerHigh="0.88"/>
+        <SteadyState Duration="240" Power="0.4"/>
+        <SteadyState Duration="240" Power="0.9"/>
+        <Ramp Duration="240" PowerLow="0.9" PowerHigh="0.92"/>
+        <Ramp Duration="240" PowerLow="0.92" PowerHigh="0.88"/>
+        <Cooldown Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

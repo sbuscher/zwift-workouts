@@ -1,0 +1,45 @@
+<workout_file>
+	<author></author>
+	<name>Mills</name>
+	<description>3 sets of 3x2-minute VO2max repeats, 120% FTP and finishing at 110% FTP 3-minute recoveries between intervals and 6-minute recoveries between sets</description>
+	<sportType>bike</sportType>
+	<tags>vo2max</tags>
+	<workout>
+		<SteadyState Duration="60" Power="0.5"/>
+		<SteadyState Duration="60" Power="0.65"/>
+		<SteadyState Duration="60" Power="0.8"/>
+		<SteadyState Duration="60" Power="1.1"/>
+		<SteadyState Duration="60" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.5"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="210" Power="0.5"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<SteadyState Duration="360" Power="0.5"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<SteadyState Duration="360" Power="0.5"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.2"/>
+		<CoolDown Duration="75" PowerLow="1.2" PowerHigh="1.1"/>
+		<CoolDown Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,37 @@
+<workout_file>
+	<author></author>
+	<name>Donner</name>
+	<description>Donner is 3x12-minute Threshold repeats which undulate between 95-99% FTP and 6-minute recoveries separate the intervals. </description>
+	<sportType>bike</sportType>
+	<tags>sweetspot</tags>
+	<workout>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<CoolDown Duration="120" PowerLow="0.97" PowerHigh="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.99"/>
+		<CoolDown Duration="180" PowerLow="0.99" PowerHigh="0.97"/>
+		<CoolDown Duration="120" PowerLow="0.97" PowerHigh="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="0.97"/>
+		<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99"/>
+		<CoolDown Duration="60" PowerLow="0.99" PowerHigh="0.95"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<Ramp Duration="120" PowerLow="0.95" PowerHigh="0.97"/>
+		<Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99"/>
+		<CoolDown Duration="60" PowerLow="0.99" PowerHigh="0.96"/>
+		<Ramp Duration="120" PowerLow="0.96" PowerHigh="0.98"/>
+		<CoolDown Duration="60" PowerLow="0.98" PowerHigh="0.95"/>
+		<Ramp Duration="120" PowerLow="0.95" PowerHigh="0.99"/>
+		<CoolDown Duration="120" PowerLow="0.99" PowerHigh="0.95"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<Ramp Duration="120" PowerLow="0.95" PowerHigh="0.99"/>
+		<CoolDown Duration="120" PowerLow="0.99" PowerHigh="0.97"/>
+		<CoolDown Duration="60" PowerLow="0.97" PowerHigh="0.95"/>
+		<Ramp Duration="120" PowerLow="0.95" PowerHigh="0.96"/>
+		<Ramp Duration="60" PowerLow="0.96" PowerHigh="0.99"/>
+		<CoolDown Duration="60" PowerLow="0.99" PowerHigh="0.97"/>
+		<Ramp Duration="180" PowerLow="0.97" PowerHigh="0.99"/>
+		<CoolDown Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

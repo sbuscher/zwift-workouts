@@ -1,0 +1,37 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Darwin</name>
+    <description>Darwin is 4x10-minute intervals between 95-99% FTP with 3-minute recoveries between intervals.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="threshold"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="120" Power="0.7"/>
+        <SteadyState Duration="120" Power="0.9"/>
+        <SteadyState Duration="240" Power="0.41"/>
+        <Ramp Duration="240" PowerLow="0.98" PowerHigh="0.96"/>
+        <Ramp Duration="120" PowerLow="0.96" PowerHigh="0.98"/>
+        <Ramp Duration="120" PowerLow="0.98" PowerHigh="0.96"/>
+        <Ramp Duration="120" PowerLow="0.96" PowerHigh="0.98"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <Ramp Duration="120" PowerLow="0.96" PowerHigh="0.99"/>
+        <Ramp Duration="120" PowerLow="0.99" PowerHigh="0.97"/>
+        <Ramp Duration="120" PowerLow="0.96" PowerHigh="0.99"/>
+        <Ramp Duration="120" PowerLow="0.99" PowerHigh="0.97"/>
+        <SteadyState Duration="120" Power="0.97"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <Ramp Duration="120" PowerLow="0.98" PowerHigh="0.96"/>
+        <Ramp Duration="120" PowerLow="0.96" PowerHigh="0.99"/>
+        <Ramp Duration="120" PowerLow="0.99" PowerHigh="0.97"/>
+        <Ramp Duration="120" PowerLow="0.97" PowerHigh="0.99"/>
+        <Ramp Duration="120" PowerLow="0.99" PowerHigh="0.97"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <Ramp Duration="120" PowerLow="0.97" PowerHigh="0.98"/>
+        <Ramp Duration="120" PowerLow="0.98" PowerHigh="0.96"/>
+        <Ramp Duration="240" PowerLow="0.96" PowerHigh="0.99"/>
+        <Ramp Duration="120" PowerLow="0.99" PowerHigh="0.96"/>
+        <Cooldown Duration="60" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

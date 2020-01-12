@@ -1,0 +1,61 @@
+<workout_file>
+	<author></author>
+	<name>Jepson</name>
+	<description>Jepson consists of 4x8-minute intervals between 95-99% FTP including 3x5-second sprints at 150% FTP.
+
+4 minutes of recovery fall between each interval.
+
+
+Goals
+
+The bulk of these intervals targets muscular endurance by training you to push the pedals hard for sustained periods of time, but about every 2 minutes the emphasis very briefly shifts to improving muscle fiber recruitment, i.e. how much of your existing muscle mass contributes to turning the pedals.
+
+These short bursts of high power also serve to break up the monotony of the intervals while cultivating the ability to quickly and forcefully change speeds and then abruptly return to a high, sustained power output.
+
+Shoot for a spin above 85rpm during the sustained segments and a cadence well above 100rpm during the brief bursts.</description>
+	<sportType>bike</sportType>
+	<tags>threshold</tags>
+	<workout>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.6"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="60" Power="0.9"/>
+		<SteadyState Duration="5" Power="1.3"/>
+		<SteadyState Duration="55" Power="0.93"/>
+		<SteadyState Duration="5" Power="1.4"/>
+		<SteadyState Duration="55" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.97"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.99"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.97"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.99"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.97"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.97"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.95"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.99"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.99"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.96"/>
+		<SteadyState Duration="5" Power="1.5"/>
+		<SteadyState Duration="115" Power="0.98"/>
+		<CoolDown Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

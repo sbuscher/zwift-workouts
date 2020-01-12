@@ -1,0 +1,21 @@
+<workout_file>
+  <author>zwiffer</author>
+  <name>Bald Knob</name>
+  <description>Bald Knob is 60 minutes of aerobic Endurance riding spent between 65-70% FTP.</description>
+  <sportType>bike</sportType>
+  <tags>
+    <tag name="endurance"/>
+  </tags>
+  <workout>
+    <SteadyState Duration="150" Power="0.5"/>
+    <SteadyState Duration="150" Power="0.55"/>
+    <SteadyState Duration="150" Power="0.6"/>
+    <SteadyState Duration="150" Power="0.65"/>
+    <SteadyState Duration="900" Power="0.7"/>
+    <Ramp Duration="60" PowerLow="0.7" PowerHigh="0.65"/>
+    <SteadyState Duration="840" Power="0.65"/>
+    <Ramp Duration="60" PowerLow="0.65" PowerHigh="0.7"/>
+    <SteadyState Duration="840" Power="0.7"/>
+    <Cooldown Duration="300" PowerLow="0.7" PowerHigh="0.5"/>
+  </workout>
+</workout_file>

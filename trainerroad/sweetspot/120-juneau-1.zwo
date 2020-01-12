@@ -1,0 +1,29 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Juneau -1</name>
+	<description></description>
+	<sportType>bike</sportType>
+	<tags>sweetspot</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="180" Power="0.9"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="540" Power="0.88"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="540" Power="0.88"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="540" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="540" Power="0.9"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="540" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="540" Power="0.92"/>
+		<SteadyState Duration="420" Power="0.4"/>
+		<SteadyState Duration="540" Power="0.9"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="540" Power="0.9"/>
+		<CoolDown Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

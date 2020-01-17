@@ -1,0 +1,27 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Wright Peak -2</name>
+    <description>Wright Peak -2 is 3x30-minute intervals at 85% FTP with short, 1-minute intermediate recoveries in the middle of each long interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweetspot"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="180" Power="0.5"/>
+        <SteadyState Duration="180" Power="0.6"/>
+        <SteadyState Duration="120" Power="0.85"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="900" Power="0.85"/>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="900" Power="0.85"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="900" Power="0.85"/>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="900" Power="0.85"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="900" Power="0.85"/>
+        <SteadyState Duration="60" Power="0.4"/>
+        <SteadyState Duration="900" Power="0.85"/>
+        <Cooldown Duration="240" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

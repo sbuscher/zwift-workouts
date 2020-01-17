@@ -1,0 +1,41 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Hunter -2</name>
+    <description>Hunter -2 is made up of 3x20-minute intervals at 88% FTP sprinkled with brief, 30-second recovery valleys throughout each interval.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweetspot"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="240" Power="0.5"/>
+        <SteadyState Duration="240" Power="0.58"/>
+        <SteadyState Duration="240" Power="0.67"/>
+        <SteadyState Duration="240" Power="0.76"/>
+        <SteadyState Duration="240" Power="0.85"/>
+        <SteadyState Duration="480" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="720" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="720" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <SteadyState Duration="30" Power="0.4"/>
+        <SteadyState Duration="300" Power="0.88"/>
+        <Cooldown Duration="210" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

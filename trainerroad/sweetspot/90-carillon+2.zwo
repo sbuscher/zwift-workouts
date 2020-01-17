@@ -1,0 +1,68 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Carillon +2</name>
+	<description>Carillon consists of 3sets of 2x10-minute criss-cross intervals where the 2-minute valleys range from 88-90% FTP and the 30-second surges fall between 92-95% FTP.</description>
+	<sportType>bike</sportType>
+	<tags>sweetspot</tags>
+	<workout>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="90" Power="0.7"/>
+		<SteadyState Duration="90" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.88"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.9"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="300" Power="0.4"/>
+	</workout>
+</workout_file>

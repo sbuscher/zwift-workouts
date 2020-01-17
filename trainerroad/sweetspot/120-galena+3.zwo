@@ -1,0 +1,24 @@
+<workout_file>
+    <author>zwiffer</author>
+    <name>Galena +3</name>
+    <description>Galena +3 is 4x20-minute Sweet Spot intervals at 90% FTP with 6 minutes of recovery between each.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweetspot"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="180" Power="0.5"/>
+        <SteadyState Duration="180" Power="0.62"/>
+        <SteadyState Duration="180" Power="0.76"/>
+        <SteadyState Duration="180" Power="0.9"/>
+        <SteadyState Duration="300" Power="0.4"/>
+        <SteadyState Duration="1200" Power="0.9"/>
+        <SteadyState Duration="360" Power="0.4"/>
+        <SteadyState Duration="1200" Power="0.9"/>
+        <SteadyState Duration="360" Power="0.4"/>
+        <SteadyState Duration="1200" Power="0.9"/>
+        <SteadyState Duration="360" Power="0.4"/>
+        <SteadyState Duration="1200" Power="0.9"/>
+        <Cooldown Duration="300" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

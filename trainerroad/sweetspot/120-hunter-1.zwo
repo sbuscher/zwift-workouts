@@ -1,0 +1,23 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>hunter -1</name>
+	<description></description>
+	<sportType>bike</sportType>
+	<tags>sweetspot</tags>
+	<workout>
+		<Ramp Duration="1200" PowerLow="0.5" PowerHigh="0.9"/>
+		<SteadyState Duration="300" Power="0.42"/>
+		<SteadyState Duration="600" Power="0.88"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.88"/>
+		<SteadyState Duration="720" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.92"/>
+		<SteadyState Duration="720" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.9"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.9"/>
+		<CoolDown Duration="480" PowerLow="0.4" PowerHigh="0.31"/>
+	</workout>
+</workout_file>

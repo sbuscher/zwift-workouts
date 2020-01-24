@@ -1,0 +1,50 @@
+<workout_file>
+	<author></author>
+	<name>Carillon -1</name>
+	<description>Carillon -1 consists of 2 sets of 2x10-minute criss-cross intervals where the 2-minute valleys range from 83-85% FTP and the 30-second surges fall between 92-95% FTP. Recovery between each pair of intervals is 1 minute long and the recovery between sets lasts 5 minutes.</description>
+	<sportType>bike</sportType>
+	<tags>tempo</tags>
+	<workout>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="90" Power="0.7"/>
+		<SteadyState Duration="90" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="120" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<SteadyState Duration="120" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.83"/>
+		<SteadyState Duration="30" Power="0.95"/>
+		<SteadyState Duration="120" Power="0.85"/>
+		<SteadyState Duration="30" Power="0.92"/>
+		<CoolDown Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

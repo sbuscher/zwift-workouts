@@ -1,0 +1,20 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Whorl</name>
+	<description>Whorl consists of 75 minutes of aerobic Endurance work spent between 60-75% FTP. Optional form drills include form sprints, endurance-spinning intervals, and various pedalstroke drills.</description>
+	<sportType>bike</sportType>
+	<tags>endurance</tags>
+	<workout>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.54"/>
+		<SteadyState Duration="180" Power="0.58"/>
+		<SteadyState Duration="1020" Power="0.62"/>
+		<Ramp Duration="60" PowerLow="0.62" PowerHigh="0.67"/>
+		<SteadyState Duration="840" Power="0.67"/>
+		<CoolDown Duration="60" PowerLow="0.67" PowerHigh="0.6"/>
+		<SteadyState Duration="780" Power="0.6"/>
+		<Ramp Duration="60" PowerLow="0.6" PowerHigh="0.65"/>
+		<SteadyState Duration="780" Power="0.65"/>
+		<CoolDown Duration="300" PowerLow="0.65" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

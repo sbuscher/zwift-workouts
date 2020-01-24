@@ -1,0 +1,62 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Avalanche Spire</name>
+	<description>Avalanche Spire is 6x6-minute over-under intervals with 1-minute valleys at 95% FTP and 2-minute peaks that ascend to 105% FTP. Recoveries between over-unders are 4 minutes long.
+</description>
+	<sportType>bike</sportType>
+	<tags>threshold</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.73"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<CoolDown Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<CoolDown Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

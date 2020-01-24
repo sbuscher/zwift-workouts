@@ -1,0 +1,20 @@
+<workout_file>
+	<author></author>
+	<name>Mokelumne 1 - ergdb</name>
+	<description>Mokelumne +1 is an hour and a half of aerobic Endurance riding mostly spent at 65% FTP and includes 2x20-second sprints.</description>
+	<sportType>bike</sportType>
+	<tags></tags>
+	<workout>
+		<SteadyState Duration="300" Power="0.5"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<SteadyState Duration="300" Power="0.6"/>
+		<SteadyState Duration="1200" Power="0.65"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<Ramp Duration="40" PowerLow="0.2" PowerHigh="0.65"/>
+		<SteadyState Duration="1200" Power="0.65"/>
+		<SteadyState Duration="20" Power="1.8"/>
+		<Ramp Duration="40" PowerLow="0.2" PowerHigh="0.65"/>
+		<SteadyState Duration="1200" Power="0.65"/>
+		<CoolDown Duration="780" PowerLow="0.65" PowerHigh="0.5"/>
+	</workout>
+</workout_file>

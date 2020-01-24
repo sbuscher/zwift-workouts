@@ -1,0 +1,24 @@
+<workout_file>
+	<author></author>
+	<name>Antelope +2</name>
+	<description>Antelope +2 is 5x10-minute Sweet Spot intervals at 94% FTP with 6-minute recoveries between intervals.  Riders have the option to spend incrementally longer periods of time in an aerodynamic position.</description>
+	<sportType>bike</sportType>
+	<tags>tempo</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.65"/>
+		<SteadyState Duration="120" Power="0.8"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.94"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.94"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.94"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.94"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="600" Power="0.94"/>
+		<CoolDown Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

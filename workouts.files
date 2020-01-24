@@ -1,5 +1,89 @@
 <custom_file_directory>
     <custom_file>
+        <name>trainerroad/threshold/90-lion-rock.zwo</name>
+        <time>0</time>
+        <guid>27006</guid>
+        <checksum>161</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/sweetspot/90-antelope+2.zwo</name>
+        <time>0</time>
+        <guid>29608</guid>
+        <checksum>172</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/tempo/60-carillon-1.zwo</name>
+        <time>0</time>
+        <guid>4580</guid>
+        <checksum>138</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/threshold/90-kaweah.zwo</name>
+        <time>0</time>
+        <guid>24930</guid>
+        <checksum>112</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/endurance/60-pettit+1.zwo</name>
+        <time>0</time>
+        <guid>18335</guid>
+        <checksum>137</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/endurance/75-collins+1.zwo</name>
+        <time>0</time>
+        <guid>8829</guid>
+        <checksum>135</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/threshold/75-fang-mountain+1.zwo</name>
+        <time>0</time>
+        <guid>9915</guid>
+        <checksum>249</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/vo2max/90+baird+6.zwo</name>
+        <time>0</time>
+        <guid>20462</guid>
+        <checksum>47</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/endurance/75-collins.zwo</name>
+        <time>0</time>
+        <guid>2208</guid>
+        <checksum>232</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/anaerobic/90-spanish-needle-3.zwo</name>
+        <time>0</time>
+        <guid>24398</guid>
+        <checksum>167</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/vo2max/60-baird+2.zwo</name>
+        <time>0</time>
+        <guid>11601</guid>
+        <checksum>172</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>trainerroad/sweetspot/120-tallac+4.zwo</name>
+        <time>0</time>
+        <guid>9502</guid>
+        <checksum>72</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>trainerroad/sweetspot/90-tallac+2.zwo</name>
         <time>0</time>
         <guid>25355</guid>
@@ -214,13 +298,6 @@
         <time>0</time>
         <guid>26040</guid>
         <checksum>102</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
-        <name>trainerroad/sweetspot/90-kaweah.zwo</name>
-        <time>0</time>
-        <guid>20459</guid>
-        <checksum>112</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -556,5 +633,6 @@
         <hash>760798874</hash>
         <hash>722514016</hash>
         <hash>3376487474</hash>
+        <hash>3283429470</hash>
     </deleted_files>
 </custom_file_directory>

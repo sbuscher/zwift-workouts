@@ -1,0 +1,45 @@
+<workout_file>
+	<author></author>
+	<name>Bashful +2</name>
+	<description>Bashful +2 is 3 sets of 5x90-second intervals that rise from 121% FTP to 125% FTP. Recoveries between intervals are 1 minute long and recoveries between sets of intervals are 5 minutes long.</description>
+	<sportType>bike</sportType>
+	<tags>anaerobic</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.25"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.21"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.22"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.23"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.24"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.25"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.21"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.22"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.23"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.24"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.25"/>
+		<SteadyState Duration="300" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.21"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.22"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.23"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.24"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.25"/>
+		<CoolDown Duration="180" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

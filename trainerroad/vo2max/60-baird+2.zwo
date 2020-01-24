@@ -1,0 +1,45 @@
+<workout_file>
+	<author></author>
+	<name>Baird +2</name>
+	<description>Baird +2 is 3 sets of 5x90-second intervals at 120% FTP where recoveries between intervals are 1 minute long and recoveries between sets of intervals are 6 minutes long.</description>
+	<sportType>bike</sportType>
+	<tags>vo2max</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="180" Power="0.6"/>
+		<SteadyState Duration="30" Power="1.1"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="240" Power="0.6"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<CoolDown Duration="90" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

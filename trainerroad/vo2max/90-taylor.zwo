@@ -15,13 +15,13 @@
 		<SteadyState Duration="42" Power="0.4"/>
 		<SteadyState Duration="24" Power="1.2"/>
 		<SteadyState Duration="216" Power="0.4"/>
-		<IntervalsT Repeat="19" OnDuration="30" OnPower="1.2" OffDuration="30" OffPower="0.4"/>
+		<IntervalsT Repeat="19" OnDuration="30" OffDuration="30" OnPower="1.2" OffPower="0.4"/>
 		<SteadyState Duration="30" Power="1.2"/>
 		<SteadyState Duration="480" Power="0.4"/>
-		<IntervalsT Repeat="19" OnDuration="30" OnPower="1.2" OffDuration="30" OffPower="0.4"/>
+		<IntervalsT Repeat="19" OnDuration="30" OffDuration="30" OnPower="1.2" OffPower="0.4"/>
 		<SteadyState Duration="30" Power="1.2"/>
 		<SteadyState Duration="480" Power="0.4"/>
-		<IntervalsT Repeat="19" OnDuration="30" OnPower="1.2" OffDuration="30" OffPower="0.4"/>
+		<IntervalsT Repeat="19" OnDuration="30" OffDuration="30" OnPower="1.2" OffPower="0.4"/>
 		<SteadyState Duration="30" Power="1.2"/>
 		<Ramp Duration="210" PowerLow="0.4" PowerHigh="0.3"/>
 	</workout>

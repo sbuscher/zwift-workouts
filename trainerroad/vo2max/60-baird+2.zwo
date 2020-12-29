@@ -3,7 +3,9 @@
 	<name>Baird +2</name>
 	<description>Baird +2 is 3 sets of 5x90-second intervals at 120% FTP where recoveries between intervals are 1 minute long and recoveries between sets of intervals are 6 minutes long.</description>
 	<sportType>bike</sportType>
-	<tags>vo2max</tags>
+	<tags>
+		<tag name="vo2max"/>
+	</tags>
 	<workout>
 		<SteadyState Duration="180" Power="0.4"/>
 		<SteadyState Duration="180" Power="0.6"/>

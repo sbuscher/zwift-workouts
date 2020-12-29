@@ -3,7 +3,9 @@
 	<name>Spencer +2</name>
 	<description>Spencer +2 is 6x3-minute VO2max repeats at 120% FTP with 4-minute recoveries between intervals. </description>
 	<sportType>bike</sportType>
-	<tags>VO2max</tags>
+	<tags>
+		<tag name="vo2max"/>
+	</tags>
 	<workout>
 		<SteadyState Duration="300" Power="0.5"/>
 		<SteadyState Duration="240" Power="0.65"/>

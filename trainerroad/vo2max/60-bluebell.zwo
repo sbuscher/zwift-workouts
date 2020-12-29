@@ -3,7 +3,9 @@
 	<name>Bluebell</name>
 	<description></description>
 	<sportType>bike</sportType>
-	<tags>vo2max</tags>
+	<tags>
+		<tag name="vo2max"/>
+	</tags>
 	<workout>
 		<SteadyState Duration="180" Power="0.5"/>
 		<SteadyState Duration="180" Power="0.7"/>

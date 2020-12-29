@@ -3,7 +3,9 @@
 	<name>Mills</name>
 	<description>3 sets of 3x2-minute VO2max repeats, 120% FTP and finishing at 110% FTP 3-minute recoveries between intervals and 6-minute recoveries between sets</description>
 	<sportType>bike</sportType>
-	<tags>vo2max</tags>
+	<tags>
+		<tag name="vo2max"/>
+	</tags>
 	<workout>
 		<SteadyState Duration="60" Power="0.5"/>
 		<SteadyState Duration="60" Power="0.65"/>

@@ -3,7 +3,9 @@
 	<name>Taylor -2</name>
 	<description></description>
 	<sportType>bike</sportType>
-	<tags>vo2max</tags>
+	<tags>
+		<tag name="vo2max"/>
+	</tags>
 	<workout>
 		<SteadyState Duration="90" Power="0.6"/>
 		<SteadyState Duration="90" Power="0.8"/>

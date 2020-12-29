@@ -3,7 +3,9 @@
 	<name>Taylor</name>
 	<description>Taylor is made up of 3x20-minute sets of 30-second VO2max repeats at 120% FTP where you'll complete as many as 20 short intervals per set. The recovery intervals match the work intervals with 30 seconds of easy spinning and the breaks between sets are 8 minutes long.</description>
 	<sportType>bike</sportType>
-	<tags>vo2max</tags>
+	<tags>
+		<tag name="vo2max"/>
+	</tags>
 	<workout>
 		<SteadyState Duration="180" Power="0.5"/>
 		<SteadyState Duration="180" Power="0.75"/>

@@ -1,10 +1,12 @@
 <workout_file>
-  <author/>
-  <name/>
-  <description/>
+  <author>zwiffer</author>
+  <name>Hunter -7</name>
+  <description>Hunter -7 is made up of 3x20-minute intervals at 88% FTP. Each long interval is split in half by a single 60-second recovery valley.5-minute recoveries fall between intervals.</description>
   <sportType>bike</sportType>
   <durationType>time</durationType>
-  <tags/>
+  <tags>
+    <tag name="sweetspot"/>
+  </tags>
   <workout>
     <SteadyState Duration="180" Power="0.496" pace="0"/>
     <SteadyState Duration="180" Power="0.672" pace="0"/>

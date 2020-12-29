@@ -1,0 +1,26 @@
+<workout_file>
+  <author/>
+  <name/>
+  <description/>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <SteadyState Duration="180" Power="0.496" pace="0"/>
+    <SteadyState Duration="180" Power="0.672" pace="0"/>
+    <SteadyState Duration="180" Power="0.844" pace="0"/>
+    <SteadyState Duration="300" Power="0.4" pace="0"/>
+    <SteadyState Duration="600" Power="0.881" pace="0"/>
+    <SteadyState Duration="60" Power="0.4" pace="0"/>
+    <SteadyState Duration="600" Power="0.881" pace="0"/>
+    <SteadyState Duration="300" Power="0.4" pace="0"/>
+    <SteadyState Duration="600" Power="0.881" pace="0"/>
+    <SteadyState Duration="60" Power="0.4" pace="0"/>
+    <SteadyState Duration="600" Power="0.881" pace="0"/>
+    <SteadyState Duration="300" Power="0.4" pace="0"/>
+    <SteadyState Duration="600" Power="0.881" pace="0"/>
+    <SteadyState Duration="60" Power="0.4" pace="0"/>
+    <SteadyState Duration="600" Power="0.881" pace="0"/>
+    <Cooldown Duration="180" PowerLow="0.402" PowerHigh="0.302" pace="0"/>
+  </workout>
+</workout_file>

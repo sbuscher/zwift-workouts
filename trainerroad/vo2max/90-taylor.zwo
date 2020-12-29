@@ -1,0 +1,26 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Taylor</name>
+	<description>Taylor is made up of 3x20-minute sets of 30-second VO2max repeats at 120% FTP where you'll complete as many as 20 short intervals per set. The recovery intervals match the work intervals with 30 seconds of easy spinning and the breaks between sets are 8 minutes long.</description>
+	<sportType>bike</sportType>
+	<tags>vo2max</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.75"/>
+		<SteadyState Duration="12" Power="1.2"/>
+		<SteadyState Duration="48" Power="0.4"/>
+		<SteadyState Duration="18" Power="1.2"/>
+		<SteadyState Duration="42" Power="0.4"/>
+		<SteadyState Duration="24" Power="1.2"/>
+		<SteadyState Duration="216" Power="0.4"/>
+		<IntervalsT Repeat="19" OnDuration="30" OnPower="1.2" OffDuration="30" OffPower="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<IntervalsT Repeat="19" OnDuration="30" OnPower="1.2" OffDuration="30" OffPower="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<IntervalsT Repeat="19" OnDuration="30" OnPower="1.2" OffDuration="30" OffPower="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<Ramp Duration="210" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

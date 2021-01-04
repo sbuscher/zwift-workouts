@@ -8,7 +8,7 @@ This repository contains a significant number of Trainerroad workouts that have 
 - VO2 Max
 - Anaerobic
 
-##Setup
+## Setup
 
 1. Clone or download the repository. If you are not familiar with GitHub click the green **Code** button then **Download ZIP**.
 1. Add the **trainerroad** directory to your ..\Documents\Zwift\Workouts\<<Numeric Zwift ID>> directory. 

@@ -31,6 +31,7 @@
         <Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
         <SteadyState Duration="570" Power="0.4"/>
         <Ramp Duration="20" PowerLow="0.4" PowerHigh="0.95"/>
+        <SteadyState Duration="60" Power="0.95"/>
         <Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
         <SteadyState Duration="60" Power="1.05"/>
         <Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>

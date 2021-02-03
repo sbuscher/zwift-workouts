@@ -12,21 +12,21 @@
         <SteadyState Duration="120" Power="0.78"/>
         <SteadyState Duration="120" Power="0.9"/>
         <SteadyState Duration="240" Power="0.4"/>
-        <SteadyState Duration="900" Power="0.85"/>
+        <SteadyState Duration="900" Power="0.90"/>
         <SteadyState Duration="60" Power="0.4"/>
-        <SteadyState Duration="900" Power="0.85"/>
+        <SteadyState Duration="900" Power="0.90"/>
         <SteadyState Duration="300" Power="0.4"/>
-        <SteadyState Duration="600" Power="0.85"/>
+        <SteadyState Duration="600" Power="0.90"/>
         <SteadyState Duration="30" Power="0.4"/>
-        <SteadyState Duration="600" Power="0.85"/>
+        <SteadyState Duration="600" Power="0.90"/>
         <SteadyState Duration="30" Power="0.4"/>
-        <SteadyState Duration="600" Power="0.85"/>
+        <SteadyState Duration="600" Power="0.90"/>
         <SteadyState Duration="300" Power="0.4"/>
-        <SteadyState Duration="600" Power="0.85"/>
+        <SteadyState Duration="600" Power="0.90"/>
         <SteadyState Duration="60" Power="0.4"/>
-        <SteadyState Duration="600" Power="0.85"/>
+        <SteadyState Duration="600" Power="0.90"/>
         <SteadyState Duration="60" Power="0.4"/>
-        <SteadyState Duration="600" Power="0.85"/>
+        <SteadyState Duration="600" Power="0.90"/>
         <Cooldown Duration="120" PowerLow="0.4" PowerHigh="0.3"/>
     </workout>
 </workout_file>

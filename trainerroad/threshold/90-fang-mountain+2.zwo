@@ -1,0 +1,71 @@
+<workout_file>
+	<author>TrainerDay.com</author>
+	<name>zwiffer</name>
+	<description>Fang Mountain +2 is 5x9-minute over-under intervals with 1-minute valleys at 95% FTP and 2-minute peaks that ascend to 110% FTP. Recoveries between OU's are 6 minutes long.</description>
+	<sportType>bike</sportType>
+	<tags>
+		<tag name="threshold"></tag>
+	</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="180" Power="0.8"/>
+		<SteadyState Duration="180" Power="0.95"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="360" Power="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<Cooldown Duration="360" PowerLow="0.4" PowerHigh="0.4"/>
+		<Ramp Duration="30" PowerLow="0.4" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<SteadyState Duration="60" Power="0.95"/>
+		<Ramp Duration="60" PowerLow="0.95" PowerHigh="1.05"/>
+		<Ramp Duration="60" PowerLow="1.05" PowerHigh="0.95"/>
+		<Ramp Duration="150" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>

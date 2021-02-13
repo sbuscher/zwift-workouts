@@ -1,7 +1,7 @@
 <workout_file>
 	<author>zwiffer</author>
-	<name>Lion Rock +1</name>
-	<description>Lion Rock +1 is 4 sets of 3x5-minute Threshold efforts that begin with a 15-second sprint at 150% FTP and then settle in for 4 minutes at 95% FTP, aka "racewinners". Each set finishes with a 30-second "kick to the line" in the form of a ramp from 95% FTP all the way up to 140% FTP. Recoveries between intervals are only 1 minute long but recoveries between sets of intervals are each 10 minutes long.</description>
+	<name>Lion Rock +4</name>
+	<description>Lion Rock +4 is 4 sets of 3x5-minute Threshold efforts that begin with a 15-second sprint at 150% FTP and then settle in for 4 minutes at 95% FTP, aka "racewinners". Each set finishes with a 30-second "kick to the line" in the form of a ramp from 95% FTP all the way up to 140% FTP. Recoveries between intervals are only 1 minute long but recoveries between sets of intervals are each 10 minutes long.</description>
 	<sportType>bike</sportType>
 	<tags>
 		<tag name="threshold"></tag>

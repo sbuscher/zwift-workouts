@@ -1,0 +1,27 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Bashful +6</name>
+	<description>Bashful +6 is 3 sets of 5x90-second intervals at 122% FTP followed by 25 minutes of Endurance work at 65% FTP. Recoveries between intervals are 1 minute long and recoveries between sets of intervals are 8 minutes long.</description>
+	<sportType>bike</sportType>
+	<tags>
+		<tag name="vo2max"></tag>
+	</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.7"/>
+		<SteadyState Duration="30" Power="1.18"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.22"/>
+		<SteadyState Duration="270" Power="0.4"/>
+		<IntervalsT Repeat="4" OnDuration="90" OnPower="1.22" OffDuration="60" OffPower="0.4"/>
+		<SteadyState Duration="90" Power="1.22"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<IntervalsT Repeat="4" OnDuration="90" OnPower="1.22" OffDuration="60" OffPower="0.4"/>
+		<SteadyState Duration="90" Power="1.22"/>
+		<SteadyState Duration="480" Power="0.4"/>
+		<IntervalsT Repeat="4" OnDuration="90" OnPower="1.22" OffDuration="60" OffPower="0.4"/>
+		<SteadyState Duration="90" Power="1.22"/>
+		<SteadyState Duration="1500" Power="0.65"/>
+		<Ramp Duration="120" PowerLow="0.65" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

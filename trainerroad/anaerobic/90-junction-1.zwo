@@ -1,47 +1,47 @@
 <workout_file>
 	<author>zwiffer</author>
-	<name>Junction 1</name>
-	<description>Junction is a combination workout consisting of 2 sets of 3x5-minute racewinners which each begin with a 15-second sprint at 150% FTP followed by 4 minutes at 95% FTP. Active recoveries between racewinners are 1 minute long and recoveries after each set of racewinners are 5 minutes long. The second half of the workout is comprised of 3x9 minutes of microbursts where you'll alternate between 15 seconds at 150% FTP and 15 seconds at 40% FTP. Active recoveries between microburst sets last a little over 2 minutes each.</description>
+	<name>Junction -1</name>
+	<description>Lion Rock is 3 sets of 3x5-minute Threshold efforts that begin with a 15-second sprint at 150% FTP and then settle in for 4 minutes at 95% FTP, aka "racewinners".</description>
 	<sportType>bike</sportType>
 	<tags>
-		<tag name="anaerobic"</tag>
+		<tag name="anaerobic"></tag>
 	</tags>
 	<workout>
 		<SteadyState Duration="120" Power="0.5"/>
 		<SteadyState Duration="120" Power="0.7"/>
-		<SteadyState Duration="120" Power="0.91"/>
+		<SteadyState Duration="120" Power="0.9"/>
 		<SteadyState Duration="120" Power="0.4"/>
-		<SteadyState Duration="6" Power="1.3"/>
+		<SteadyState Duration="6" Power="1.3"/>"
 		<SteadyState Duration="18" Power="0.4"/>
 		<SteadyState Duration="6" Power="1.4"/>
 		<SteadyState Duration="18" Power="0.4"/>
 		<SteadyState Duration="6" Power="1.5"/>
 		<SteadyState Duration="246" Power="0.4"/>
 		<SteadyState Duration="15" Power="1.5"/>
-		<Ramp Duration="45" PowerLow="0.86" PowerHigh="0.95"/>
+		<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95"/>
 		<SteadyState Duration="240" Power="0.95"/>
 		<SteadyState Duration="60" Power="0.4"/>
 		<SteadyState Duration="15" Power="1.5"/>
-		<Ramp Duration="45" PowerLow="0.86" PowerHigh="0.95"/>
+		<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95"/>
 		<SteadyState Duration="240" Power="0.95"/>
 		<SteadyState Duration="60" Power="0.4"/>
 		<SteadyState Duration="15" Power="1.5"/>
-		<Ramp Duration="45" PowerLow="0.86" PowerHigh="0.95"/>
+		<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95"/>
 		<SteadyState Duration="210" Power="0.95"/>
-		<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.4"/>
+		<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.35"/>
 		<SteadyState Duration="300" Power="0.4"/>
 		<SteadyState Duration="15" Power="1.5"/>
-		<Ramp Duration="45" PowerLow="0.86" PowerHigh="0.95"/>
+		<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95"/>
 		<SteadyState Duration="240" Power="0.95"/>
 		<SteadyState Duration="60" Power="0.4"/>
 		<SteadyState Duration="15" Power="1.5"/>
-		<Ramp Duration="45" PowerLow="0.86" PowerHigh="0.95"/>
+		<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95"/>
 		<SteadyState Duration="240" Power="0.95"/>
 		<SteadyState Duration="60" Power="0.4"/>
 		<SteadyState Duration="15" Power="1.5"/>
-		<Ramp Duration="45" PowerLow="0.86" PowerHigh="0.95"/>
+		<Ramp Duration="45" PowerLow="0.85" PowerHigh="0.95"/>
 		<SteadyState Duration="210" Power="0.95"/>
-		<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.4"/>
+		<Ramp Duration="30" PowerLow="0.95" PowerHigh="1.35"/>
 		<SteadyState Duration="300" Power="0.4"/>
 		<IntervalsT Repeat="3" OnDuration="15" OnPower="1.5" OffDuration="15" OffPower="0.4"/>
 		<SteadyState Duration="15" Power="1.5"/>

@@ -1,0 +1,56 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Williamson +4</name>
+	<description>Williamson +4 consists of 3 sets of 6 descending-duration/ascending intensity intervals from 115% FTP for 2 minutes to 150% FTP for 30 seconds.</description>
+	<sportType>bike</sportType>
+	<tags>
+		<tag name="anaerobic"></tag>
+	</tags>
+	<workout>
+		<SteadyState Duration="120" Power="0.5"/>
+		<SteadyState Duration="120" Power="0.7"/>
+		<SteadyState Duration="120" Power="0.95"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.2"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.3"/>
+		<SteadyState Duration="240" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.15"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="75" Power="1.25"/>
+		<SteadyState Duration="75" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.4"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.15"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="75" Power="1.25"/>
+		<SteadyState Duration="75" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.4"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="180" Power="0.4"/>
+		<SteadyState Duration="120" Power="1.15"/>
+		<SteadyState Duration="120" Power="0.4"/>
+		<SteadyState Duration="90" Power="1.2"/>
+		<SteadyState Duration="90" Power="0.4"/>
+		<SteadyState Duration="75" Power="1.25"/>
+		<SteadyState Duration="75" Power="0.4"/>
+		<SteadyState Duration="60" Power="1.3"/>
+		<SteadyState Duration="60" Power="0.4"/>
+		<SteadyState Duration="45" Power="1.4"/>
+		<SteadyState Duration="45" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.5"/>
+		<SteadyState Duration="1800" Power="0.65"/>
+		<Ramp Duration="90" PowerLow="0.65" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

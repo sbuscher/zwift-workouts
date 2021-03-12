@@ -1,0 +1,31 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Matthes +4</name>
+	<description>Matthes +4 is 3 sets of 3x3-minute VO2max repeats at 115%FTP followed by 12 minutes of Endurance work at 65% FTP.</description>
+	<sportType>bike</sportType>
+	<tags>
+		<tag name="vo2max"></tag>
+	</tags>
+	<workout>
+		<SteadyState Duration="180" Power="0.5"/>
+		<SteadyState Duration="180" Power="0.65"/>
+		<SteadyState Duration="20" Power="1.15"/>
+		<SteadyState Duration="20" Power="0.4"/>
+		<SteadyState Duration="30" Power="1.15"/>
+		<SteadyState Duration="30" Power="0.4"/>
+		<SteadyState Duration="40" Power="1.15"/>
+		<SteadyState Duration="40" Power="0.4"/>
+		<SteadyState Duration="50" Power="1.15"/>
+		<SteadyState Duration="130" Power="0.4"/>
+		<IntervalsT Repeat="2" OnDuration="180" OnPower="1.15" OffDuration="240" OffPower="0.4"/>
+		<SteadyState Duration="180" Power="1.15"/>
+		<SteadyState Duration="360" Power="0.5"/>
+		<IntervalsT Repeat="2" OnDuration="180" OnPower="1.15" OffDuration="240" OffPower="0.4"/>
+		<SteadyState Duration="180" Power="1.15"/>
+		<SteadyState Duration="360" Power="0.5"/>
+		<IntervalsT Repeat="2" OnDuration="180" OnPower="1.15" OffDuration="240" OffPower="0.4"/>
+		<SteadyState Duration="180" Power="1.15"/>
+		<SteadyState Duration="720" Power="0.65"/>
+		<Ramp Duration="180" PowerLow="0.65" PowerHigh="0.4"/>
+	</workout>
+</workout_file>

@@ -1,0 +1,38 @@
+<workout_file>
+	<author>zwiffer</author>
+	<name>Aniakchak</name>
+	<description>Aniakchak begins with 3x5-minute Endurance intervals between 60-70% FTP that each conclude with a 10-second sprint between 180-200% FTP. The second part of Aniakchak consists of almost 70 minutes of Sweet Spot-ish work between 85-92% FTP with short bouts of aerobic Endurance riding at 55-65% FTP separating each interval.</description>
+	<sportType>bike</sportType>
+	<tags>
+		<tag name="sweetspot"></tag>
+	</tags>
+	<workout>
+		<SteadyState Duration="240" Power="0.5"/>
+		<SteadyState Duration="240" Power="0.6"/>
+		<SteadyState Duration="300" Power="0.7"/>
+		<SteadyState Duration="10" Power="1.8"/>
+		<Ramp Duration="50" PowerLow="0.2" PowerHigh="0.6"/>
+		<SteadyState Duration="300" Power="0.6"/>
+		<SteadyState Duration="10" Power="1.9"/>
+		<Ramp Duration="50" PowerLow="0.2" PowerHigh="0.65"/>
+		<SteadyState Duration="300" Power="0.65"/>
+		<SteadyState Duration="10" Power="2"/>
+		<Ramp Duration="50" PowerLow="0.2" PowerHigh="0.55"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<Ramp Duration="30" PowerLow="0.55" PowerHigh="0.85"/>
+		<SteadyState Duration="1080" Power="0.85"/>
+		<Ramp Duration="30" PowerLow="0.85" PowerHigh="0.65"/>
+		<SteadyState Duration="300" Power="0.65"/>
+		<Ramp Duration="30" PowerLow="0.65" PowerHigh="0.92"/>
+		<SteadyState Duration="960" Power="0.92"/>
+		<Ramp Duration="30" PowerLow="0.92" PowerHigh="0.6"/>
+		<SteadyState Duration="300" Power="0.6"/>
+		<Ramp Duration="30" PowerLow="0.6" PowerHigh="0.9"/>
+		<SteadyState Duration="840" Power="0.9"/>
+		<Ramp Duration="30" PowerLow="0.9" PowerHigh="0.55"/>
+		<SteadyState Duration="300" Power="0.55"/>
+		<Ramp Duration="30" PowerLow="0.55" PowerHigh="0.92"/>
+		<SteadyState Duration="1140" Power="0.92"/>
+		<Ramp Duration="210" PowerLow="0.4" PowerHigh="0.3"/>
+	</workout>
+</workout_file>
